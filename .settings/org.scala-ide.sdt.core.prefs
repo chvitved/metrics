@@ -1,0 +1,4 @@
+scala.compiler.useProjectSettings=true
+deprecation=true
+encoding=true
+utf8=true
